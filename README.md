@@ -9,9 +9,8 @@
 ## My Github Statistics 📑
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=fikinoob&show_icons=true&bg_color=00000000)](https://github.com/fikinoob)
+
 ![](https://komarev.com/ghpvc/?username=fikinoob&style=flat-square&abbreviated=true&color=yellow)
-
-
 
 ## My Contribution Streak 📈
 
