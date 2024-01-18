@@ -10,11 +10,11 @@
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=fikinoob&show_icons=true&bg_color=00000000)](https://github.com/fikinoob)
 
-![](https://komarev.com/ghpvc/?username=fikinoob&style=flat-square&abbreviated=true&color=yellow)
+![Profile Views](https://komarev.com/ghpvc/?username=fikinoob&style=flat-square&abbreviated=true&color=yellow)
 
 ## My Contribution Streak 📈
 
-[![Contribution Streak](https://github-readme-streak-stats.herokuapp.com?user=fikinoob&theme=cobalt&hide_border=true)](https://git.io/streak-stats)
+[![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=fikinoob&theme=cobalt&hide_border=true)](https://git.io/streak-stats)
 
 ## Most Used Language
 
